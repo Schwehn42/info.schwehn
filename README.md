@@ -1,4 +1,6 @@
 info.schwehn
 ============
 
-for my website, http://www.schwehn.info/
+http://www.schwehn.info/
+============
+Für Kohlhans
